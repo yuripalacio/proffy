@@ -49,23 +49,28 @@ A aplicação possibilita que seja cadastrado proffys (professores) e suas respe
 # Tecnologias
 
 ### Server (API)
-* [Node.JS](https://nodejs.org/en/docs/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Express](https://expressjs.com/)
-* [SQLite](https://www.sqlite.org/index.html)
-* [Knex](http://knexjs.org/)
-* [Cors](https://github.com/expressjs/cors)
-* [...]
+
+- [Node.JS](https://nodejs.org/en/docs/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Knex](http://knexjs.org/)
+- [Cors](https://github.com/expressjs/cors)
+- [...]
 
 ### Web
-* [ReactJS](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [...]
+
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://github.com/axios/axios)
+- [...]
 
 ### Mobile
-* [...]
+
+- [...]
 
 # Como Usar
+
 **Estará disponível no término do projeto**
 
 # Licença
