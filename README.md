@@ -75,7 +75,7 @@ A aplicação possibilita que seja cadastrado proffys (professores) e suas respe
 
 # Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/nathaliacristina20/gorestaurant/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/yuripalacio/proffy/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 
 <hr />
 
